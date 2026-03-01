@@ -25,10 +25,9 @@ streamlit run ba_assistente.py
 #Digite seu e-mail: Se quiser receber e-mails informativos da plataforma, digite seu endereço e aperte Enter
 
 
-# Exemplos de uso do assistente:
+# Exemplo de uso do assistente:
 
-# Gostaria de ir para o nordeste brasileiro com o objetivo de descansar.
-# Tenho 2000 reais e 5 dias para viajar. Qual sua ideia?
+# Gostaria de ir para o nordeste brasileiro com o objetivo de descansar. Tenho 2000 reais e 5 dias para viajar. Qual sua ideia?
 
 # Use os comandos abaixo para desativar o ambiente virtual e remover o ambiente (opcional):
 
