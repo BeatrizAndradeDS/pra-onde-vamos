@@ -1,0 +1,38 @@
+# Beatriz Andrade DS AI Coder
+
+# Abra o terminal ou prompt de comando, navegue até a pasta com os arquivos e execute o comando abaixo para criar um ambiente virtual:
+
+conda create --name ba1 python=3.13
+
+# Ative o ambiente:
+
+conda activate ba1 (ou: source activate ba1)
+
+# Instale o pip e as dependências:
+
+conda install pip
+pip install -r requirements.txt 
+
+# Execute a app:
+
+streamlit run ba_assistente.py
+
+#Se é a sua primeira vez utilizando o Streamlit (ou uma nova instalação), ele está solicitando que você informe seu e-mail 
+#para receber novidades e atualizações. 
+
+#Para prosseguir, você tem duas opções simples no próprio terminal:
+#Apenas aperte Enter: Você pode deixar o campo em branco e o Streamlit iniciará seu aplicativo normalmente.
+#Digite seu e-mail: Se quiser receber e-mails informativos da plataforma, digite seu endereço e aperte Enter
+
+
+# Exemplos de uso do assistente:
+
+# Gostaria de ir para o nordeste brasileiro com o objetivo de descansar.
+# Tenho 2000 reais e 5 dias para viajar. Qual sua ideia?
+
+# Use os comandos abaixo para desativar o ambiente virtual e remover o ambiente (opcional):
+
+conda deactivate
+conda remove --name ba1 --all
+
+
