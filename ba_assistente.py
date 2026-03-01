@@ -167,7 +167,7 @@ st.markdown(
     """
     <div style="text-align: center; color: gray;">
         <hr>
-        <p>Esse projeto foi inspirado no Curso de Fundamentos de Linguagem Python da Data Science Academy</p>
+        <p>Projeto desenvolvido por Beatriz Andrade.</p>
     </div>
     """,
     unsafe_allow_html=True
